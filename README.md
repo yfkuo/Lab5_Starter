@@ -7,5 +7,5 @@
     - Answer: Yes, because unit testing is suitable for testing the length of a message since it is focusing on a single functionality by simpliy checking the size of a message, which does not neccessarily require knowing how it interact with other components.
   
 ## Links:
-    [https://yfkuo.github.io/Lab5_Starter/expose.html](https://yfkuo.github.io/Lab5_Starter/expose.html)
-    [[explore.html](https://yfkuo.github.io/Lab5_Starter/explore.html)](https://yfkuo.github.io/Lab5_Starter/explore.html)
+[https://yfkuo.github.io/Lab5_Starter/expose.html](https://yfkuo.github.io/Lab5_Starter/expose.html)
+[https://yfkuo.github.io/Lab5_Starter/explore.html](https://yfkuo.github.io/Lab5_Starter/explore.html)
